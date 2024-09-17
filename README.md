@@ -1,3 +1,4 @@
 # WhackAMole_Game
-This is a Whack-A-Mole game that records the user's reaction time when they click on the mole before it disappears. Before each round begins, users must click the white button in the center of the screen. As the game progresses, the rounds become more challenging with the mole disappearing more quickly. The game is designed based on Fitts' Law, which relates to Human-Computer Interaction.
+This Whack-A-Mole game is designed to track users' reaction times as they click on the mole before it disappears. Each round begins with the user clicking a white button at the center of the screen, and as the game progresses, the difficulty increases as the mole disappears faster.
 
+The game is based on Fitts' Law, which is central to Human-Computer Interaction. You can play the game through the Glitch branch. Originally developed by Dr. Abe Karnik (a.karnik@lancaster.ac.uk) as a teaching resource, I customized the code for my own coursework project.
